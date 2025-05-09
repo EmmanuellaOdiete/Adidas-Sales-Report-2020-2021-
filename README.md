@@ -4,7 +4,7 @@
 
 ## 🧭 Overview
 
-EHave you ever wondered what truly drives Adidas' sales success across different landscapes? This project dives deep into a rich dataset of Adidas sales spanning from March 2020 to October 2021, offering a panoramic view of their performance across various retailers, regions, and sales channels. Think of it as peeling back the layers of their sales strategy to uncover the hidden patterns and key drivers of their revenue engine. This analysis goes beyond simple numbers, painting a vivid picture of where Adidas shines, where opportunities lie, and how strategic decisions can be informed by data-backed insights.
+Have you ever wondered what truly drives Adidas' sales success across different landscapes? This project dives deep into a rich dataset of Adidas sales spanning from March 2020 to October 2021, offering a panoramic view of their performance across various retailers, regions, and sales channels. Think of it as peeling back the layers of their sales strategy to uncover the hidden patterns and key drivers of their revenue engine. This analysis goes beyond simple numbers, painting a vivid picture of where Adidas shines, where opportunities lie, and how strategic decisions can be informed by data-backed insights.
 
 ## 💡 Why This Project is Useful
 
